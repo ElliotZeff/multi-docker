@@ -19,8 +19,8 @@ function App() {
           >
             BAYBAY!!!
           </a>
-          <Link to="/">Home</Link>
-          <Link to="/otherpage">Other Page</Link>
+          <Link to="/">BAYBAY</Link>
+          <Link to="/otherpage">BAY BAYYYYYYY</Link>
         </header>
         <div>
           <Route exact path="/" component={Fib} />
