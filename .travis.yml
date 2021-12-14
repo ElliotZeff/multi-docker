@@ -22,4 +22,3 @@ after_success:
   - docker push elliotzeff/multi-nginx
   - docker push elliotzeff/multi-server
   - docker push elliotzeff/multi-worker
-
